@@ -1,4 +1,4 @@
-# Store Sales System
+# Store moke app
 
 This is a simple Python program that registers products and calculates the total sales of the day. The project is organized into three files:
 

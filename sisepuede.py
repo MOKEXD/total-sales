@@ -1,6 +1,8 @@
+#here we create a inventory management system fo a moke app, we will create
+#a function to registrer products, and other to calculate the total of this products.
 products = []
 
-def init():
+def init(): #here we create a function to registrer products
     n = int(input("how many products do you want to register?: "))
 
     for i in range(n):

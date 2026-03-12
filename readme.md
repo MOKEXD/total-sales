@@ -10,3 +10,4 @@ Handles product registration. It asks the user for the product name, price, and 
 
 **sales.py**
 Calculates the sales summary by multiplying the price and quantity of each product and showing the total sales.
+![Diagram](diagrama.png)

@@ -5,7 +5,7 @@ This is a simple Python program that registers products and calculates the total
 **main.py**
 Runs the program, shows the date and time, and calls the other modules.
 
-**products.py**
+**sisepuede.py**
 Handles product registration. It asks the user for the product name, price, and quantity, and stores them in a list.
 
 **sales.py**
